@@ -3,6 +3,8 @@ Hi there 👋 I am a Telecommunications Engineering student :satellite: :radio: 
 
 
 I hope to finish my degree next July and, in the meantime, I would like to learn programming in different areas.
+
+![axolotl](https://user-images.githubusercontent.com/110885554/186362310-d5c6e677-5b67-49b2-bf77-e0f41e5b1949.png)
 <!--
 **sargarse/sargarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
