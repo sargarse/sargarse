@@ -1,5 +1,8 @@
-### Hi there 👋
+# SARA GARCÍA
+Hi there 👋 I am a Telecommunications Engineering student :satellite: :radio: :iphone: :computer:
 
+
+I hope to finish my degree next July and, in the meantime, I would like to learn programming in different areas.
 <!--
 **sargarse/sargarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
