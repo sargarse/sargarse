@@ -1,5 +1,5 @@
 # SARA GARCÍA
-Hi there 👋 I am a Telecommunications Engineering student :satellite: :radio: :iphone: :computer:
+Hi there 👋 I am a Telecommunications Engineer in the absence of my final degree project, which I will complete very soon. :satellite: :radio: :iphone: :computer:
 
 
 I hope to finish my degree next July and, in the meantime, I would like to learn programming in different areas.
